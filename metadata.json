@@ -1,0 +1,6 @@
+{
+  "name": "Wandor",
+  "description": "Where will you go next? Tell our AI where you're going and what you love. We'll create a personalized itinerary for you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
